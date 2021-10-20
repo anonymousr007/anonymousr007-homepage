@@ -10,9 +10,9 @@
 
 ## General Commands
 
-
+**npm update command**
 ```
-npm i -g npm [ **npm update command** ]
+npm i -g npm
 ```
 
 ## Commands
@@ -27,4 +27,8 @@ npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion next react r
 
 ```
 npm i -D eslint eslint-config-next prettier
+```
+
+```
+mkdir pages
 ```
