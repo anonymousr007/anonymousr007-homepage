@@ -8,10 +8,12 @@
 * **Framer Motion** - An animation library for React.
 * **Three.js** - 3D library for Javascript.
 
+## General Commands
+
+`npm i -g npm` [ **npm update command** ]
+
 ## Commands
 
-- [x] npm init -y
-- [x] npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion next react react-dom
-- [x] npm i -g npm [ **npm update command** ]
-- [x] npm i -D eslint eslint-config-next prettier
-- [x] 
+`npm init -y`
+`npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion next react react-dom`
+`npm i -D eslint eslint-config-next prettier`
