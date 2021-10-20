@@ -32,3 +32,11 @@ npm i -D eslint eslint-config-next prettier
 ```
 mkdir pages
 ```
+
+```
+mkdir components
+```
+
+```
+mkdir components/layouts
+```
