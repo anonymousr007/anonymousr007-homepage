@@ -10,8 +10,8 @@
 
 ## Commands
 
-- [x] `npm init -y`
-- [x] `npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion next react react-dom` 
-- [x] `npm i -g npm` (Update Command)
-- [x] `npm i -D eslint eslint-config-next prettier`
-- [x] ``
+- [x] npm init -y
+- [x] npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion next react react-dom
+- [x] npm i -g npm [ **npm update command** ]
+- [x] npm i -D eslint eslint-config-next prettier
+- [x] 
