@@ -40,3 +40,11 @@ mkdir components
 ```
 mkdir components/layouts
 ```
+
+```
+npm run dev [ for run application]
+```
+
+```
+
+```
